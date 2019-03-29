@@ -1,0 +1,151 @@
+
+
+#csszengarden{
+background-image: url("GirlPalm.jpg");
+background-repeat: no-repeat;
+background-position: top center;
+background-size: 100%;
+background-attachment: fixed;
+background-color: black;
+
+}
+.sidebar{
+color: white;
+height: auto;
+width: 160px;
+position: absolute;
+top: 0;
+left: 0;
+background: rgba(001, 001, 001, 0.5);
+overflow-x: hidden;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+text-decoration: none;
+border-radius: 25px;
+margin-top: 250px;
+margin-bottom: 10px;
+margin-left: 10px;
+}
+.page-wrapper{
+
+  background: rgba(001, 001, 001, 0.5);
+  margin-left: 300px;
+  margin-right: 200px;
+  margin-top: 125px;
+  border-radius: 50px;
+  border-color: white;
+  border-width: 2px;
+
+}
+.summary p{
+  text-align: center;
+}
+
+#zen-intro h1{
+  color: #ef3ea8; /* Pink */
+  font-family: Righteous;
+  font-size: 50px;
+  text-shadow: 2px 2px white;
+
+
+}
+#zen-intro h2{
+  color: darkorange;
+  font-family: Sniglet;
+  font-size: 50px;
+  text-shadow: 2px 2px white;
+  text-decoration: none;
+}
+
+#zen-summary p{
+  color: darkorange;
+  font-family: Sniglet;
+  padding-left: 25px;
+  padding-right: 25px;
+
+
+
+}
+#zen-preamble h3{
+  color: #ef3ea8;
+  font-family: Righteous;
+}
+#zen-preamble p{
+  color: darkorange;
+  font-family: Sniglet;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#zen-explanation h3{
+  color: #ef3ea8;
+  font-family: Righteous;
+}
+#zen-explanation p{
+  color: darkorange;
+  font-family: Sniglet;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#zen-participation h3{
+  color: #ef3ea8;
+  font-family: Righteous;
+}
+#zen-participation p{
+  color: darkorange;
+  font-family: Sniglet;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#zen-benefits h3{
+  color: #ef3ea8;
+  font-family: Righteous;
+}
+#zen-benefits p{
+  color: darkorange;
+  font-family: Sniglet;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#zen-requirements h3{
+  color: #ef3ea8;
+  font-family: Righteous;
+}
+#zen-requirements p{
+  color: darkorange;
+  font-family: Sniglet;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#zen-resources{
+  color: white;
+}
+a{
+  border-style: none;
+  text-decoration: none;
+  color: #ef3ea8;
+}
+a:hover{
+  color: #5cd1e8; /* Blue */
+}
+a:visited{
+  color: #5cd1e8;
+}
+h3{
+  text-align: center;
+  font-size: 35px;
+  word-spacing: 8px;
+  color: darkorange;
+  text-shadow: 2px 2px white;
+}
+h1{
+  text-align: center;
+  text-shadow: 2px 2px white;
+}
+h2{
+  font-size: 35px;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
